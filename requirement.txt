@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+openai
+requests
+easyocr
+Pillow
+numpy
